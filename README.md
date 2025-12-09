@@ -186,7 +186,8 @@ df.to_csv("clean_data.csv", index=False)
 ## 7. 👤 Author
 
  **Vishwaprasad**
+
 Aspiring Data Analyst
 Skills: Excel | Power BI | SQL | Python | Data Analysis
 
-Which of these would you like next?
+
