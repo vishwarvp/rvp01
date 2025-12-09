@@ -1,4 +1,3 @@
-
 1. 📊 Exploratory Data Analysis (EDA) Projects Portfolio
 
 This repository contains **three complete Exploratory Data Analysis (EDA) projects**, created using a **structured, industry-standard data analysis workflow**.
@@ -186,15 +185,8 @@ df.to_csv("clean_data.csv", index=False)
 
 ## 7. 👤 Author
 
-1. **Vishwaprasad**
-2. Aspiring Data Analyst
-3. Skills: Excel | Power BI | SQL | Python | Data Analysis
-
----
-
-If you want, I can:
-
-1. Convert each project section into its own numbered subsection with dataset links and notebook filenames.
-2. Add numbered placeholders for screenshots (so they'll render cleanly on GitHub).
+ **Vishwaprasad**
+Aspiring Data Analyst
+Skills: Excel | Power BI | SQL | Python | Data Analysis
 
 Which of these would you like next?
